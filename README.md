@@ -40,6 +40,8 @@ student-search-system/
 3. 直接打开`index.html`文件即可使用系统
 4. 在搜索框中输入关键词（姓名、学号、证件号码等）进行搜索
 5. 点击搜索结果卡片可展开查看详细信息
+<img width="1416" height="831" alt="实例2" src="https://github.com/user-attachments/assets/b539a7c2-6bcc-4ea3-8a32-a8cf6a6fd6e2" />
+
 
 ## 数据说明
 
