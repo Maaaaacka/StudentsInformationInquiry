@@ -4,7 +4,7 @@
 
 这是一个采用苹果简约风格设计的学生信息查询系统，支持通过姓名、学号、证件号码等关键词进行模糊搜索，并以卡片形式展示学生信息。
 
-![系统截图]![Uploading QQ_1762530622403.png…]()
+<img width="879" height="508" alt="页面" src="https://github.com/user-attachments/assets/207d5685-0b8e-4748-ba67-aa4b48bd91a1" />
 
 
 ## 功能特点
