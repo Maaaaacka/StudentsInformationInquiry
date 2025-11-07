@@ -4,7 +4,8 @@
 
 这是一个采用苹果简约风格设计的学生信息查询系统，支持通过姓名、学号、证件号码等关键词进行模糊搜索，并以卡片形式展示学生信息。
 
-![系统截图](https://p3-flow-imagex-sign.byteimg.com/tos-cn-i-a9rns2rl98/rc/pc/super_tool/943ab20bae704cb391c4caedcbbf4966~tplv-a9rns2rl98-image.image?rcl=20251106235544430969F09927C341C45B&rk3s=8e244e95&rrcfp=f06b921b&x-expires=1765036558&x-signature=Qe1IG6zVI2hzROphSlnwOx%2BXi6o%3D)
+![系统截图]![Uploading QQ_1762530622403.png…]()
+
 
 ## 功能特点
 
