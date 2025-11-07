@@ -57,7 +57,7 @@ student-search-system/
 - 入学时间
 - 学籍编号
 
-如需修改或添加学生数据，请直接编辑`index.html`文件中的`students`数组。
+如需修改或添加学生数据，请直接编辑`students.json`文件中的`students`数组。
 
 ## 技术栈
 
